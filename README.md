@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonWoo Lee&show_icons=true&theme=chartreuse-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geonwoo0215&show_icons=true&theme=chartreuse-dark)
 
 <!--
 **geonwoo0215/geonwoo0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
